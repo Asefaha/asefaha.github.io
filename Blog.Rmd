@@ -1,0 +1,5 @@
+---
+title: "Blog"
+output: html_document
+---
+What's wrong with a pie chart?
