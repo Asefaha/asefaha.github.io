@@ -1,7 +1,6 @@
 ---
 title: "About this site"
 ---
-![Some nice text](images/abstract-art-background-430207.jpg)
 
 This site was made using RStudio, and is hosted on Github. Source code can be found on [my profile](https://github.com/asefaha/asefaha.github.io).
 

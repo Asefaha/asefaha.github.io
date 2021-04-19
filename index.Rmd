@@ -1,13 +1,17 @@
 ---
-title: "Graduating in May 2019! Gifts and cake accepted :) "
+title: "Thanks for stopping by. Have a look around."
 ---
 
-Hi, I'm . I'm about to earn my MS in Biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics).
 
-Before that, I worked as a biologist for New York City's [Dept. of Health & Mental Hygiene](http://www1.nyc.gov/site/doh/index.page).
+Hi, I'm Feven Asefaha. 
 
-I enjoy working with data, creating informative visualizations, and communicating concepts to the 
-unfamiliar.
+My professional goals center around using analytics within healthcare to improve efficiency and positively impact health outcomes. To that end, I have experience utilizing a wide range of data tools (R/tidyverse, SAS, SQL, Qlikview, etc) to visualize, analyze, inform, and engage. Like any scientist, I value collaborating with and learning from my peers. I also enjoy teaching concepts to the unfamiliar, and have substantial experience interfacing with the public, with students, and across organizations.
 
-I obtained my BS from Cornell University in 2015, where I focused in biology. While I was there, I worked on research regarding collective decision making in social insects. 
+Most recently, I worked as a Healthcare Data Analyst at Milliman's Health Practice in NYC. While there, I worked on product, as well as several additional claims analytics projects, with some resulting in [white papers](https://www.milliman.com/en/insight/how-current-part-d-risk-scores-could-interact-with-pointofsale-rebates).
+
+Before that, I was a grad student in the Biostatistics department at Columbia's Mailman School of Public Health. My master's project looked at the occurrence of waterborne illness among consumers of [SWN's](https://www.safewaternetwork.org/) sustainable water systems. 
+ 
+I obtained my BS from Cornell University in 2015. During college, I gained research experience in biochemistry and collective behavior, and completed an internship in content development at the [Lab of O](https://www.birds.cornell.edu/home/). After college, I worked as a youth advocate, and as a biologist with New York City's [Department of Health](http://www1.nyc.gov/site/doh/index.page). 
+
+Born and raised in [The Bronx](https://www.atlasobscura.com/things-to-do/bronx-new-york/places?page=1).
 

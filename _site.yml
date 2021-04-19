@@ -10,17 +10,16 @@ navbar:
     - text: "Blog"
       href: blog.html
       
-      
-      
-    
-   
+
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<f.asefaha@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/asefaha
-    - icon: fa-linkedin fa-lg
+    - icon: fa-linkedin fa-g
       href: https://www.linkedin.com/in/asefaha
+   
 
 output:
   html_document
+
