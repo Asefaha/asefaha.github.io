@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Resume"
       href: resume.html
-    - text: "Samples"
+    - text: "About"
       href: about.html
     - text: "Blog"
       href: blog.html
@@ -14,14 +14,13 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<f.asefaha@gmail.com>
-    - icon: fa-github fa-lg
+    - icon: fas fa-github
       href: http://github.com/asefaha
-    - icon: fa-linkedin fa-lg
+    - icon: fas fa-linkedin
       href: https://www.linkedin.com/in/asefaha
    
 
 output:
-  html_document
-	theme: cosmo
-
+  html_document:
+    theme: cosmo
 
