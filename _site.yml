@@ -5,18 +5,20 @@ navbar:
   left:
     - text: "Resume"
       href: resume.html
-    - text: "About"
-      href: about.html
+    - text: "Samples"
+	menu: 
+        - text: "Plotly Dashboard"
+          href: plotly_demo.html 
     - text: "Blog"
       href: blog.html
       
 
   right:
-    - icon: fa-envelope fa-lg
+    - icon: fas fa-envelope
       href: mailto:<f.asefaha@gmail.com>
-    - icon: fas fa-github
+    - icon: fab fa-github
       href: http://github.com/asefaha
-    - icon: fas fa-linkedin
+    - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/asefaha
    
 
