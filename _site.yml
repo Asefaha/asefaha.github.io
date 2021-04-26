@@ -7,7 +7,7 @@ navbar:
       href: resume.html
     - text: "Samples"
       menu: 
-        - text: "Plotly Dashboard"
+        - text: "Plotly"
           href: plotly_example.html 
     - text: "Blog"
       href: blog.html
