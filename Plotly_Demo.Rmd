@@ -1,0 +1,27 @@
+---
+title: "Plotting on PlotLy"
+author: "Feven Asefaha"
+date: "4/25/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+library(tidyverse)
+library(plotly)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hover Text
+
+```{r cars, echo = FALSE}
+
+ a <- plot_ly( data = mpg, 
+    x = ~displ, y = ~hwy, type = "scatter", mode = "markers",
+    color = ~class, alpha = 0.5)
+ 
+ a
+
+```
+

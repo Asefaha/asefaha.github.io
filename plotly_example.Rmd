@@ -1,0 +1,73 @@
+---
+title: "Plotly Dashboard (IN PROGRESS)"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+
+
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r scatterplot, echo = FALSE}
+
+a <- plot_ly( data = mpg, 
+    x = ~displ, y = ~hwy, type = "scatter", mode = "markers",
+    color = ~class, alpha = 0.5)
+ 
+ a
+
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r barchart, echo = FALSE}
+
+b <-  ggplot(data = mpg, mapping = aes(x = manufacturer)) +
+      geom_bar(mapping = aes( fill = manufacturer)) +
+    coord_flip()
+
+b
+
+```
+
+### Chart C
+
+```{r lollipop_chart, echo = FALSE}
+
+# Plot
+# Create data
+data <- data.frame(
+  x=LETTERS[1:26],
+  y=abs(rnorm(26))
+)
+ 
+# plot
+c <-  ggplot(data, aes(x=x, y=y)) +
+  geom_segment( aes(x=x, xend=x, y=0, yend=y)) +
+  geom_point( size=5, color="red", fill=alpha("orange", 0.3), alpha=0.7, shape=21, stroke=2) 
+
+c
+
+
+
+
+ 
+
+
+```
+
